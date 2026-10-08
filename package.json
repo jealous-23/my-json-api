@@ -1,0 +1,8 @@
+{
+  "name": "my-free-json-api",
+  "version": "1.0.0",
+  "main": "products.js",
+  "scripts": {
+    "start": "node products.js"
+  }
+}
